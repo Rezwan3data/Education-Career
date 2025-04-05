@@ -47,17 +47,17 @@ The analysis of the starting salary showed no visible difference across differen
 
 The analysis of the starting salary showed no visible difference across different university tiers.
 
-![Starting Salary across different University Tiers](path/to/image1.png)
+![Starting Salary across different University Tiers](image1.png)
 
 ### Data Set 2: Pay Scale Website
 A second dataset from PayScale was utilized. The correlation between university rank and early career pay showed a different trend compared to Dataset 1.
 
-![University Rank vs Early Career Pay](path/to/image2.png)
+![University Rank vs Early Career Pay](image2.png)
 
 ### Data Set 3: UK Data
 This dataset examined whether geographic region affects salary by comparing various job sectors in the UK. 
 
-![Mean Salary by Job Category](path/to/image3.png)
+![Mean Salary by Job Category](image3.png)
 
 ### Research Paper
 The paper by Hans-Georg Wolff and Klaus Moser titled “Effects of Networking on Career Success: A Longitudinal Study” was critical in exploring the role of networking on career satisfaction and salary.
@@ -65,7 +65,7 @@ The paper by Hans-Georg Wolff and Klaus Moser titled “Effects of Networking on
 ### Data Set 4: Alumni Connections and Networking
 This dataset focused on alumni connections and their impact on employment rates. A regression analysis revealed that top universities tend to provide better alumni connections, which helps students secure high-paying jobs.
 
-![World Rank vs Number of Employment Through Alumni](path/to/image4.png)
+![World Rank vs Number of Employment Through Alumni](image4.png)
 
 ## Conclusion
 
